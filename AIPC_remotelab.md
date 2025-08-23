@@ -100,6 +100,18 @@ Ryzen AI PC 处理器集成了三大计算单元：
 
 通过Ryzen AI软件栈运行Lemonade Server，提供本地OpenAI API兼容接口，支持本地大模型的RAG(检索增强生成)和Agent应用开发。
 
+开发步骤：
+
+```
+To run a lemonade server in Jupyter Lab, you need to :
+
+1. Open a terminal
+2. input "bash"
+3. input "conda activate lemon"
+4. input "HF_ENDPOINT=https://hf-mirror.com lemonade-server-dev serve"
+5. Open up a jupyter notebook
+```
+
 #### 🔧 技术栈
 
 - **服务器**: Lemonade Server

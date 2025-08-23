@@ -19,6 +19,8 @@
 1. 登录成功后，将来到如下板卡申请界面。选中第一个Home⻚面，在FPGA Access
    Token处填入所给的Token值，并勾选希望使用的板卡。
 
+   访问[http://212.129.248.110:8996/](http://212.129.248.110:8996/ "http://212.129.248.110:8996/")home
+   Token: 0e89fe68b3c34942ad003e832b5ebf7d63334170fbe72c0ab13ef2984aa592d7
 
    ![1755842239314](image/FPGA_remotelab/1755842239314.png)
 2. 点击Apply for a FPGA board按钮，即可申请一张FPGA板卡。此时窗口显示
