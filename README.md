@@ -80,8 +80,8 @@ https://jsj.top/f/zow0Bv
 | 09:30 - 10:10 | 重建，驱动，点亮：AI与AMD技术打造的Minecraft新世界      | 上海交通大学Minecraft社社长 - 季诺澄 | https://github.com/UNIkeEN/SJMCL         |
 | 10:10 - 10:30 | Ryzen AI PC深度解构：NPU、iGPU、CPU三核心的智能协同概览 | AMD 高级软件工程师 -  陈雯           |                                          |
 | 10:30 - 11:00 | 你的专属AI老师：本地大模型多学科助教养成指南            | 清华大学计算机科协 - 张馨元           | https://github.com/Daucloud/amd_summer25 |
-| 11:00 - 11:30 | 端侧智能涌现：个人多智能体AI助手得开发与展望            | 华南理工大学 - 林鸿楠                 | https://github.com/LinLoveZyt/auto_arxiv |
-| 11:30 - 12:00 | 文档变智囊：MinerU+GPU加速的知识问答系统                | 上海科技大学 - 张炀杰                 | https://github.com/Rtsmjy/demo_rag       |
+| 11:00 - 11:30 | 文档变智囊：MinerU+GPU加速的知识问答系统                | 上海科技大学 - 张炀杰                 | https://github.com/Rtsmjy/demo_rag       |
+| 11:30 - 12:00 | 端侧智能涌现：个人多智能体AI助手得开发与展望            | 华南理工大学 - 林鸿楠                 | https://github.com/LinLoveZyt/auto_arxiv |
 |               | 午餐                                                    |                                       |                                          |
 | 14:00 - 14:30 | AI PC的软件图谱：Ryzen AI软件栈全面解析                 | AMD 高级软件工程师 -  陈雯           |                                          |
 | 14:30 - 15:00 | 一键启动AI：Lemonade Sever让大模型部署变简单            |                                       |                                          |
